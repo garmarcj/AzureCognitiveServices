@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AzureCognitiveServices.iml" filepath="$PROJECT_DIR$/AzureCognitiveServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.ieselcaminas/org.ieselcaminas.iml" filepath="$PROJECT_DIR$/org.ieselcaminas/org.ieselcaminas.iml" />
     </modules>
   </component>
 </project>

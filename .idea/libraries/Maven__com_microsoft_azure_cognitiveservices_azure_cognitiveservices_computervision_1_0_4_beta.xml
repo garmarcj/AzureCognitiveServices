@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.microsoft.azure.cognitiveservices:azure-cognitiveservices-computervision:1.0.4-beta">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/azure/cognitiveservices/azure-cognitiveservices-computervision/1.0.4-beta/azure-cognitiveservices-computervision-1.0.4-beta.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/azure/cognitiveservices/azure-cognitiveservices-computervision/1.0.4-beta/azure-cognitiveservices-computervision-1.0.4-beta-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/microsoft/azure/cognitiveservices/azure-cognitiveservices-computervision/1.0.4-beta/azure-cognitiveservices-computervision-1.0.4-beta-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
