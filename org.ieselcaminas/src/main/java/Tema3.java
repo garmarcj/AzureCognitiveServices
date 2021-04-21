@@ -141,7 +141,7 @@ public class Tema3 {
 
         fichero = new File(miniatura);
         fop = new FileOutputStream(fichero);
-        is.transferTo(fop);
+     //   is.transferTo(fop);
         fop.close();
         is.close();
     }
