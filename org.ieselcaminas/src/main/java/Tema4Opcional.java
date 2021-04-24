@@ -187,7 +187,6 @@ public class Tema4Opcional {
         if (respuesta.body() != null) {
             JsonElement json = parser.parse(respuesta.body().string());
 
-
             JsonArray jArrayResultado = json.getAsJsonArray();
             JsonElement jsonTraducciones = jArrayResultado.get(0);
             JsonObject jsonIdioma = (JsonObject) jsonTraducciones;

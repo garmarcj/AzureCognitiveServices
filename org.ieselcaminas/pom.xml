@@ -191,5 +191,11 @@
             <version>3.14.7</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.microsoft.azure.cognitiveservices</groupId>
+            <artifactId>azure-cognitiveservices-qnamaker</artifactId>
+            <version>1.0.0-beta</version>
+        </dependency>
+
     </dependencies>
 </project>
