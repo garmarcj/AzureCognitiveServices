@@ -1,4 +1,4 @@
-import java.io.IOException;
+/*import java.io.IOException;
 import java.util.concurrent.ExecutionException;
 
 import com.azure.ai.textanalytics.TextAnalyticsClient;
@@ -204,3 +204,4 @@ public class Tema4Opcional {
     //
 
 }
+*/
