@@ -204,5 +204,12 @@
             <version>1.0.2-beta</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.microsoft.azure.cognitiveservices</groupId>
+            <artifactId>azure-cognitiveservices-contentmoderator</artifactId>
+            <version>1.0.1-beta</version>
+        </dependency>
+
+
     </dependencies>
 </project>

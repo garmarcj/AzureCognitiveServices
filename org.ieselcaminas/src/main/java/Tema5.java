@@ -52,13 +52,13 @@ public class Tema5 {
             // Recogemos únicamente la predicción con mayor peso e imprimimos la intención y sus entidades asociadas
             IntentModel resultadoMayorPeso = resultado.topScoringIntent();
             if (resultadoMayorPeso != null) {
-                System.out.println("Intención [" + resultadoMayorPeso.intent() + "]");
+                System.out.println("La intención es... " + resultadoMayorPeso.intent());
                 if (resultado.entities() != null && resultado.entities().size() > 0) {
-                    System.out.print("Entidades encontradas: ");
+                    System.out.print("Y las entidades encontradas son... ");
                     for (EntityModel entityModel : resultado.entities()) {
-                        System.out.print("[" + entityModel.entity() + " ");
+                        System.out.print(entityModel.entity() + " ");
                     }
-                    System.out.println("]");
+                    System.out.println();
                 }
                 if (resultadoMayorPeso.intent().equals("Salir"))
                     salir = true;
