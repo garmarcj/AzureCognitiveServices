@@ -210,6 +210,10 @@
             <version>1.0.1-beta</version>
         </dependency>
 
-
+        <dependency>
+            <groupId>com.microsoft.bing</groupId>
+            <artifactId>bing-websearch</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 </project>

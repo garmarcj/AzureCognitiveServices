@@ -5,8 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import static java.lang.String.valueOf;
-
 public class Tema6 {
     private static final String CLAVE_CONTENTMODERATOR = "3c18413e9ddd453192d48edfef5c7b1f";
     private static final String ENDPOINT_CONTENTMODERATOR = "https://tema6contentmoderator.cognitiveservices.azure.com/";

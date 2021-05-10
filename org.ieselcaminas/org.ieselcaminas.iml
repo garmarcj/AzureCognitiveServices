@@ -116,7 +116,7 @@
     <orderEntry type="library" name="Maven: net.minidev:accessors-smart:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.ow2.asm:asm:5.0.4" level="project" />
     <orderEntry type="library" name="Maven: com.nimbusds:lang-tag:1.5" level="project" />
-    <orderEntry type="library" name="Maven: com.nimbusds:nimbus-jose-jwt:9.9.1" level="project" />
+    <orderEntry type="library" name="Maven: com.nimbusds:nimbus-jose-jwt:9.9.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.nanohttpd:nanohttpd:2.3.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: net.java.dev.jna:jna-platform:5.4.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: net.java.dev.jna:jna:5.4.0" level="project" />
@@ -129,5 +129,8 @@
     <orderEntry type="library" name="Maven: com.microsoft.azure.cognitiveservices:azure-cognitiveservices-qnamaker:1.0.0-beta.1" level="project" />
     <orderEntry type="library" name="Maven: com.microsoft.azure.cognitiveservices:azure-cognitiveservices-luis-runtime:1.0.2-beta" level="project" />
     <orderEntry type="library" name="Maven: com.microsoft.azure.cognitiveservices:azure-cognitiveservices-contentmoderator:1.0.1-beta" level="project" />
+    <orderEntry type="library" name="Maven: com.microsoft.bing:bing-websearch:1.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.slf4j:slf4j-log4j12:1.7.28" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: log4j:log4j:1.2.17" level="project" />
   </component>
 </module>
